@@ -9,7 +9,7 @@ Aspiring software engineer passionate about creating impactful and meaningful so
 ✉️ &nbsp;You can shoot me an email at pmle1210@gmail.com! I'll try to respond as soon as I can.
 
 ---
-### Currently Working On (Personal Projects):
+### Currently Working On:
 - 📲&nbsp; an Web3 iOS app for <a href="https://cbites.co">CryptoBites</a>.
 - 🤖&nbsp; an openAI powered Ethereum expert chatbot that can help developers learn and build more efficiently.
 
