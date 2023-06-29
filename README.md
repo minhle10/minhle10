@@ -13,9 +13,6 @@ Aspiring software engineer passionate about creating impactful and meaningful so
 - 📲&nbsp; an Web3 iOS app for <a href="https://cbites.co">CryptoBites</a>.
 - 🤖&nbsp; an openAI powered Ethereum expert chatbot that can help developers learn and build more efficiently.
 
-### Currently Working As:
-- 🧙🏻‍♂️&nbsp; an apprentice for <a href="https://oclef.com">oClef</a> 🎶
-
 ---
 
 
