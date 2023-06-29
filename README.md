@@ -1,6 +1,6 @@
 # 👋🏽 &nbsp;Hi there, I'm Minh! 
 ### 👨🏻‍💻 &nbsp;About Me
-I'm an aspiring software engineer passionate about creating impactful and meaningful solutions to everyday problems through coding.
+Aspiring software engineer passionate about creating impactful and meaningful solutions to everyday problems through coding.
 
 🎓 &nbsp;I recently graduated Boston College with a degree in Computer Science and a minor in Philosophy.\
 🌱 &nbsp;Technologies I’m currently learning: **OpenAI**, **Solidity**, and **Web3** Development.\
