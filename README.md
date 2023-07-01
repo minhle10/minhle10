@@ -11,7 +11,7 @@ Aspiring software engineer passionate about creating impactful and meaningful so
 ---
 ### Currently Working On:
 - 📲&nbsp; an Web3 iOS app for <a href="https://cbites.co">CryptoBites</a>.
-- 🤖&nbsp; an openAI powered Ethereum expert chatbot that can help developers learn and build more efficiently.
+- 🤖&nbsp; an openAI powered Ethereum expert chatbot that can help developers learn and build more efficiently ([link to repo](https://github.com/minhle10/eth-gpt-project)).
 
 ---
 
